@@ -2,7 +2,7 @@
 ## To Do
    # learn and setup nvim
    # learn and setup arch+bspwm+sxhkd
-   # Finish sqli-labs
+   # WebSec
 <!--
 **winters0x64/winters0x64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
