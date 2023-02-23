@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on WebSec,dwm,nvim,Tessa
-- 🌱 I’m currently learning Web technology,dwm,Tessa,nvim
+- 🔭 I’m currently working on WebSec,Bspwm,Lv,Tessa
+- 🌱 I’m currently learning Web technology,Bspwm,Tessa,Lv
 - 👯 I’m looking to collaborate on Ricing Desktops
 - 🤔 I’m looking for help with NLP in C++
-- 💬 Ask me about Web,Js,C++,Arch,DWM,Vim
+- 💬 Ask me about Web,Js,C++,Arch,Bspwm,Vim
 - 📫 How to reach me: Winters#0303
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: You're reading this,smh
