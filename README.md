@@ -5,4 +5,5 @@
 -> Make a simple tiling window manager using X11.<br>
 -> Finish web security training and move on to more real world stuff.<br>
 -> Make an extension to inject javascript into browsers.<br>
+-> Learn react js and work on personal website.<br>
 
