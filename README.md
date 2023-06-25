@@ -5,4 +5,5 @@
 -> Make an extension to inject javascript into browsers.<br>
 -> Learn react js and work on personal website.<br>
 -> Learn Rust and Go. <br>
+-> Grind Portswigger.
 
