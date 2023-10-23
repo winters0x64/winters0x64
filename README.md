@@ -1,5 +1,3 @@
-# Web player @[teambi0s](https://github.com/teambi0s), trying to be better.
+# Web player @ [teambi0s](https://github.com/teambi0s),
 
-To Do:
-- [ ] Create progress sheet.
-- [ ] Blog site.
+"Just when you cross the line you realize the line never ends" - by me
